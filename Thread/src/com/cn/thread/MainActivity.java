@@ -1,5 +1,4 @@
 package com.cn.thread;
-
 import com.example.thread.R;
 
 import android.annotation.SuppressLint;
