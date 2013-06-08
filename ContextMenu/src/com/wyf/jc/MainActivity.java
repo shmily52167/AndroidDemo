@@ -35,7 +35,7 @@ public class MainActivity extends Activity {
 		case MENU3:
 			EditText et1=(EditText) this.findViewById(R.id.EditText01);
 			et1.append("\n"+item.getTitle()+"被按下");
-			break;
+		   break;
 		case MENU4:
 		case MENU5:
 			TextView tv=(TextView) this.findViewById(R.id.TextView01);
