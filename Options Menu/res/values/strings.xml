@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Options Menu</string>
+    <string name="label">你的选择为\n</string>
+    <string name="gender">性别</string>
+    <string name="male">男</string>
+    <string name="female">女</string>    
+    <string name="hobby">爱好书籍</string>
+    <string name="hobby1">三国演义</string>
+    <string name="hobby2">水浒传</string>
+    <string name="hobby3">西游记</string>
+    <string name="ok">确定</string>
+    <string name="exat01">没有图标1</string>
+    <string name="exat02">没有图标2</string>
+
+</resources>
