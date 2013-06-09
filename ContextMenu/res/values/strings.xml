@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">ContextMenu</string>
+	<string name="mi1">EditText--菜单项1</string>
+    <string name="mi2">EditText--菜单项2</string>
+    <string name="mi3">EditText--菜单项3</string>
+    <string name="mi4">TextView--菜单项1</string>
+    <string name="mi5">TextView--菜单项2</string>
+    <string name="et1">EditText</string>
+    <string name="tv1">TextView</string>
+    
+    
+    
+    
+    
+</resources>
