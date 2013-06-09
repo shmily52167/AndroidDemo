@@ -1,7 +1,0 @@
-<resources>
-
-    <string name="app_name">MultiChoiceDialog</string>
-    <string name="ok">确定</string>
-    <string name="listmultiple">多选按钮对话框</string>
-
-</resources>

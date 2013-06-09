@@ -1,8 +1,0 @@
-<resources>
-
-    <string name="app_name">SingleChoiceDialog</string>
-	<string name="ok">确定</string>
-    <string name="listsingle">单选按钮对话框</string>
-    
-    
-</resources>

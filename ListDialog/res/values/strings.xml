@@ -1,6 +1,0 @@
-<resources>
-
-    <string name="app_name">ListDialog</string>
-	<string name="ok">确定</string>
-	<string name="list">列表对话框</string>
-</resources>
