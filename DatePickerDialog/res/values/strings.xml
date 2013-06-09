@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">DatePickerDialog</string>
+	<string name="date">日期对话框</string>
+    <string name="time">时间对话框</string>
+    
+    
+</resources>
