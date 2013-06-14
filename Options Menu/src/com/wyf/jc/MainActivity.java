@@ -9,7 +9,6 @@ import android.view.MenuItem;
 import android.view.MenuItem.OnMenuItemClickListener;
 import android.view.SubMenu;
 import android.widget.EditText;
-
 public class MainActivity extends Activity {
 	final int MENU_GENDER_MALE=0;
 	final int MENU_GENDER_FEMALE=1;
