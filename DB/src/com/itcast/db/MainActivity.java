@@ -3,26 +3,22 @@ package com.itcast.db;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-
 import android.app.Activity;
 import android.database.Cursor;
 import android.os.Bundle;
 import android.support.v4.widget.SimpleCursorAdapter;
-import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
 import android.widget.Toast;
-
 import com.example.db.R;
 import com.itcast.adapter.PersonAdapter;
 import com.itcast.domain.Person;
 import com.itcast.service.PersonService;
 
 public class MainActivity extends Activity {
-	private static final String TAG = "MainActivity";
 	private ListView listView;
 	private PersonService personService;
 
