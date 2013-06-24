@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">AlarmManager</string>
+    <string name="alarmTite">闹钟</string>
+	<string name="alarmMsg">时间到了</string>
+	<string name="alatmButton">确定</string>
+    
+    
+    
+</resources>

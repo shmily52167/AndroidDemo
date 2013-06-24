@@ -60,7 +60,7 @@ public class OtherPersonService {
 	 */
 	public Person find(Integer id) {
 		SQLiteDatabase db = dbOpenHelper.getReadableDatabase();
-	Cursor cursor=db.query("person", null, "person=?", new String[]{id.toString()}, null,null, null);
+	Cursor cursor=db.query("person", null, "personid=?", new String[]{id.toString()}, null,null, null);
 		if (cursor.moveToFirst()) {
 			int personid = cursor.getInt(cursor.getColumnIndex("personid"));
 			String name = cursor.getString(cursor.getColumnIndex("name"));
