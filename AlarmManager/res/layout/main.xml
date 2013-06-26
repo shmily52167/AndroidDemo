@@ -14,7 +14,13 @@
     <LinearLayout 
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:gravity="bottom">
+        android:orientation="vertical"
+        android:gravity="center">
+        <CheckBox 
+            android:text="是否重复响铃"
+            android:id="@+id/checkbox_alarm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
         <Button 
             android:id="@+id/btn"
             android:text="设置闹钟"
