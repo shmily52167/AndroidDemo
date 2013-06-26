@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">图片查看器</string>
+	<string name="title">网络图片路径</string>
+	<string name="button">查看</string>
+	<string name="error">获取图片失败</string>
+</resources>
